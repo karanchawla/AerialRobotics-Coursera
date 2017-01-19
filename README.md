@@ -3,4 +3,4 @@ Things I learned:
 - Quadrotor Dynamic Modeling
 - Quadrotor Control
 - Quadrotor Trajectory Generation
-![](AerialRobotics-Coursera/output_E8wNUi.gif)
+![](/output_E8wNUi.gif)
