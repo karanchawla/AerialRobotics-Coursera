@@ -3,4 +3,4 @@ Things I learned:
 - Quadrotor Dynamic Modeling
 - Quadrotor Control
 - Quadrotor Trajectory Generation
-![](/output_E8wNUi.gif)
+![2D Trajectory Tracking](/output_E8wNUi.gif)
